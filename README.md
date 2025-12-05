@@ -1,8 +1,8 @@
 <!---
 {
   "id": "718193ef-11a1-408d-af23-4b10c24d490d",
-  "teaches": "Introduction to GAS on Linux",
-  "depends_on": [],
+  "teaches": "Introduction to GAS on Linux",  
+  "depends_on": ["2c7334b3-b07d-48d6-a562-79072d8e166e"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
   "keywords": ["assembly", "GAS", "syscall", "x86_64", "Linux"]
